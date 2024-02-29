@@ -2,6 +2,7 @@ Here's a README.md document for the "Digit-Recognition" Kaggle notebook on GitHu
 
 # Digit-Recognition: MNIST Handwritten Digit Classification
 
+#### Digit Recognizer without using Tensorflow, Keras or Pytorch and just Pure Numpy, to supplement my learning of Andrew Ng's Deep learning course, in order to understand the fundamentals of deep learning.
 This project explores the MNIST dataset and builds a neural network to classify handwritten digits with high accuracy.
 
 ## Overview
